@@ -34,3 +34,5 @@ Remote sensing image change detection constitutes the focal point of my research
   year={2024},
   publisher={Elsevier}
   }
+## Continual Graph Learning
+Continual graph learning is the focus of my research during my EngD studies at Southeast University (2023-2027).
